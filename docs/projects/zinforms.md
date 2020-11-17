@@ -32,4 +32,4 @@ Adding it to the window is as easy as `window1.AddChild(label1)`.
 
 Let's see what we've got so far!
 
-![BasicWindow1](https://github.com/Zintom/ZinForms/blob/main/Examples/Images/BasicWindow1.PNG)
+![BasicWindow1](https://user-images.githubusercontent.com/18383281/99443377-a50a5500-2912-11eb-8b05-3876e83a6ebf.png)
