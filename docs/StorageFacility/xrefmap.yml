@@ -1,0 +1,386 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Zintom.StorageFacility
+  name: Zintom.StorageFacility
+  href: api/Zintom.StorageFacility.html
+  commentId: N:Zintom.StorageFacility
+  fullName: Zintom.StorageFacility
+  nameWithType: Zintom.StorageFacility
+- uid: Zintom.StorageFacility.Helpers
+  name: Helpers
+  href: api/Zintom.StorageFacility.Helpers.html
+  commentId: T:Zintom.StorageFacility.Helpers
+  fullName: Zintom.StorageFacility.Helpers
+  nameWithType: Helpers
+- uid: Zintom.StorageFacility.Helpers.GetValue*
+  name: GetValue
+  href: api/Zintom.StorageFacility.Helpers.html#Zintom_StorageFacility_Helpers_GetValue_
+  commentId: Overload:Zintom.StorageFacility.Helpers.GetValue
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Helpers.GetValue
+  nameWithType: Helpers.GetValue
+- uid: Zintom.StorageFacility.Helpers.GetValue``2(System.Collections.Generic.IDictionary{``0,``1},``0,``1)
+  name: GetValue<TKey, TValue>(IDictionary<TKey, TValue>, TKey, TValue)
+  href: api/Zintom.StorageFacility.Helpers.html#Zintom_StorageFacility_Helpers_GetValue__2_System_Collections_Generic_IDictionary___0___1____0___1_
+  commentId: M:Zintom.StorageFacility.Helpers.GetValue``2(System.Collections.Generic.IDictionary{``0,``1},``0,``1)
+  name.vb: GetValue(Of TKey, TValue)(IDictionary(Of TKey, TValue), TKey, TValue)
+  fullName: Zintom.StorageFacility.Helpers.GetValue<TKey, TValue>(System.Collections.Generic.IDictionary<TKey, TValue>, TKey, TValue)
+  fullName.vb: Zintom.StorageFacility.Helpers.GetValue(Of TKey, TValue)(System.Collections.Generic.IDictionary(Of TKey, TValue), TKey, TValue)
+  nameWithType: Helpers.GetValue<TKey, TValue>(IDictionary<TKey, TValue>, TKey, TValue)
+  nameWithType.vb: Helpers.GetValue(Of TKey, TValue)(IDictionary(Of TKey, TValue), TKey, TValue)
+- uid: Zintom.StorageFacility.Helpers.GetValue``2(System.Collections.Generic.IReadOnlyDictionary{``0,``1},``0,``1)
+  name: GetValue<TKey, TValue>(IReadOnlyDictionary<TKey, TValue>, TKey, TValue)
+  href: api/Zintom.StorageFacility.Helpers.html#Zintom_StorageFacility_Helpers_GetValue__2_System_Collections_Generic_IReadOnlyDictionary___0___1____0___1_
+  commentId: M:Zintom.StorageFacility.Helpers.GetValue``2(System.Collections.Generic.IReadOnlyDictionary{``0,``1},``0,``1)
+  name.vb: GetValue(Of TKey, TValue)(IReadOnlyDictionary(Of TKey, TValue), TKey, TValue)
+  fullName: Zintom.StorageFacility.Helpers.GetValue<TKey, TValue>(System.Collections.Generic.IReadOnlyDictionary<TKey, TValue>, TKey, TValue)
+  fullName.vb: Zintom.StorageFacility.Helpers.GetValue(Of TKey, TValue)(System.Collections.Generic.IReadOnlyDictionary(Of TKey, TValue), TKey, TValue)
+  nameWithType: Helpers.GetValue<TKey, TValue>(IReadOnlyDictionary<TKey, TValue>, TKey, TValue)
+  nameWithType.vb: Helpers.GetValue(Of TKey, TValue)(IReadOnlyDictionary(Of TKey, TValue), TKey, TValue)
+- uid: Zintom.StorageFacility.InvalidTokenException
+  name: InvalidTokenException
+  href: api/Zintom.StorageFacility.InvalidTokenException.html
+  commentId: T:Zintom.StorageFacility.InvalidTokenException
+  fullName: Zintom.StorageFacility.InvalidTokenException
+  nameWithType: InvalidTokenException
+- uid: Zintom.StorageFacility.InvalidTokenException.#ctor
+  name: InvalidTokenException()
+  href: api/Zintom.StorageFacility.InvalidTokenException.html#Zintom_StorageFacility_InvalidTokenException__ctor
+  commentId: M:Zintom.StorageFacility.InvalidTokenException.#ctor
+  fullName: Zintom.StorageFacility.InvalidTokenException.InvalidTokenException()
+  nameWithType: InvalidTokenException.InvalidTokenException()
+- uid: Zintom.StorageFacility.InvalidTokenException.#ctor(System.String)
+  name: InvalidTokenException(String)
+  href: api/Zintom.StorageFacility.InvalidTokenException.html#Zintom_StorageFacility_InvalidTokenException__ctor_System_String_
+  commentId: M:Zintom.StorageFacility.InvalidTokenException.#ctor(System.String)
+  fullName: Zintom.StorageFacility.InvalidTokenException.InvalidTokenException(System.String)
+  nameWithType: InvalidTokenException.InvalidTokenException(String)
+- uid: Zintom.StorageFacility.InvalidTokenException.#ctor(System.String,System.Exception)
+  name: InvalidTokenException(String, Exception)
+  href: api/Zintom.StorageFacility.InvalidTokenException.html#Zintom_StorageFacility_InvalidTokenException__ctor_System_String_System_Exception_
+  commentId: M:Zintom.StorageFacility.InvalidTokenException.#ctor(System.String,System.Exception)
+  fullName: Zintom.StorageFacility.InvalidTokenException.InvalidTokenException(System.String, System.Exception)
+  nameWithType: InvalidTokenException.InvalidTokenException(String, Exception)
+- uid: Zintom.StorageFacility.InvalidTokenException.#ctor*
+  name: InvalidTokenException
+  href: api/Zintom.StorageFacility.InvalidTokenException.html#Zintom_StorageFacility_InvalidTokenException__ctor_
+  commentId: Overload:Zintom.StorageFacility.InvalidTokenException.#ctor
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.InvalidTokenException.InvalidTokenException
+  nameWithType: InvalidTokenException.InvalidTokenException
+- uid: Zintom.StorageFacility.IRepresent`1
+  name: IRepresent<T>
+  href: api/Zintom.StorageFacility.IRepresent-1.html
+  commentId: T:Zintom.StorageFacility.IRepresent`1
+  name.vb: IRepresent(Of T)
+  fullName: Zintom.StorageFacility.IRepresent<T>
+  fullName.vb: Zintom.StorageFacility.IRepresent(Of T)
+  nameWithType: IRepresent<T>
+  nameWithType.vb: IRepresent(Of T)
+- uid: Zintom.StorageFacility.IRepresent`1.Represents(`0)
+  name: Represents(T)
+  href: api/Zintom.StorageFacility.IRepresent-1.html#Zintom_StorageFacility_IRepresent_1_Represents__0_
+  commentId: M:Zintom.StorageFacility.IRepresent`1.Represents(`0)
+  fullName: Zintom.StorageFacility.IRepresent<T>.Represents(T)
+  fullName.vb: Zintom.StorageFacility.IRepresent(Of T).Represents(T)
+  nameWithType: IRepresent<T>.Represents(T)
+  nameWithType.vb: IRepresent(Of T).Represents(T)
+- uid: Zintom.StorageFacility.IRepresent`1.Represents*
+  name: Represents
+  href: api/Zintom.StorageFacility.IRepresent-1.html#Zintom_StorageFacility_IRepresent_1_Represents_
+  commentId: Overload:Zintom.StorageFacility.IRepresent`1.Represents
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.IRepresent<T>.Represents
+  fullName.vb: Zintom.StorageFacility.IRepresent(Of T).Represents
+  nameWithType: IRepresent<T>.Represents
+  nameWithType.vb: IRepresent(Of T).Represents
+- uid: Zintom.StorageFacility.IStorageEditor
+  name: IStorageEditor
+  href: api/Zintom.StorageFacility.IStorageEditor.html
+  commentId: T:Zintom.StorageFacility.IStorageEditor
+  fullName: Zintom.StorageFacility.IStorageEditor
+  nameWithType: IStorageEditor
+- uid: Zintom.StorageFacility.IStorageEditor.Clear(System.Boolean)
+  name: Clear(Boolean)
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_Clear_System_Boolean_
+  commentId: M:Zintom.StorageFacility.IStorageEditor.Clear(System.Boolean)
+  fullName: Zintom.StorageFacility.IStorageEditor.Clear(System.Boolean)
+  nameWithType: IStorageEditor.Clear(Boolean)
+- uid: Zintom.StorageFacility.IStorageEditor.Clear*
+  name: Clear
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_Clear_
+  commentId: Overload:Zintom.StorageFacility.IStorageEditor.Clear
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.IStorageEditor.Clear
+  nameWithType: IStorageEditor.Clear
+- uid: Zintom.StorageFacility.IStorageEditor.Commit
+  name: Commit()
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_Commit
+  commentId: M:Zintom.StorageFacility.IStorageEditor.Commit
+  fullName: Zintom.StorageFacility.IStorageEditor.Commit()
+  nameWithType: IStorageEditor.Commit()
+- uid: Zintom.StorageFacility.IStorageEditor.Commit*
+  name: Commit
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_Commit_
+  commentId: Overload:Zintom.StorageFacility.IStorageEditor.Commit
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.IStorageEditor.Commit
+  nameWithType: IStorageEditor.Commit
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Boolean)
+  name: PutValue(String, Boolean)
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_Boolean_
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Boolean)
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Boolean)
+  nameWithType: IStorageEditor.PutValue(String, Boolean)
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Byte[])
+  name: PutValue(String, Byte[])
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_Byte___
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Byte[])
+  name.vb: PutValue(String, Byte())
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Byte[])
+  fullName.vb: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Byte())
+  nameWithType: IStorageEditor.PutValue(String, Byte[])
+  nameWithType.vb: IStorageEditor.PutValue(String, Byte())
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Int32)
+  name: PutValue(String, Int32)
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_Int32_
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Int32)
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Int32)
+  nameWithType: IStorageEditor.PutValue(String, Int32)
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Int32[])
+  name: PutValue(String, Int32[])
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_Int32___
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Int32[])
+  name.vb: PutValue(String, Int32())
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Int32[])
+  fullName.vb: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Int32())
+  nameWithType: IStorageEditor.PutValue(String, Int32[])
+  nameWithType.vb: IStorageEditor.PutValue(String, Int32())
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Int64)
+  name: PutValue(String, Int64)
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_Int64_
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Int64)
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Int64)
+  nameWithType: IStorageEditor.PutValue(String, Int64)
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Int64[])
+  name: PutValue(String, Int64[])
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_Int64___
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Int64[])
+  name.vb: PutValue(String, Int64())
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Int64[])
+  fullName.vb: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Int64())
+  nameWithType: IStorageEditor.PutValue(String, Int64[])
+  nameWithType.vb: IStorageEditor.PutValue(String, Int64())
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Single)
+  name: PutValue(String, Single)
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_Single_
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Single)
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Single)
+  nameWithType: IStorageEditor.PutValue(String, Single)
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Single[])
+  name: PutValue(String, Single[])
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_Single___
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.Single[])
+  name.vb: PutValue(String, Single())
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Single[])
+  fullName.vb: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.Single())
+  nameWithType: IStorageEditor.PutValue(String, Single[])
+  nameWithType.vb: IStorageEditor.PutValue(String, Single())
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.String)
+  name: PutValue(String, String)
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_String_
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.String)
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.String)
+  nameWithType: IStorageEditor.PutValue(String, String)
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.String[])
+  name: PutValue(String, String[])
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_System_String_System_String___
+  commentId: M:Zintom.StorageFacility.IStorageEditor.PutValue(System.String,System.String[])
+  name.vb: PutValue(String, String())
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.String[])
+  fullName.vb: Zintom.StorageFacility.IStorageEditor.PutValue(System.String, System.String())
+  nameWithType: IStorageEditor.PutValue(String, String[])
+  nameWithType.vb: IStorageEditor.PutValue(String, String())
+- uid: Zintom.StorageFacility.IStorageEditor.PutValue*
+  name: PutValue
+  href: api/Zintom.StorageFacility.IStorageEditor.html#Zintom_StorageFacility_IStorageEditor_PutValue_
+  commentId: Overload:Zintom.StorageFacility.IStorageEditor.PutValue
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.IStorageEditor.PutValue
+  nameWithType: IStorageEditor.PutValue
+- uid: Zintom.StorageFacility.Storage
+  name: Storage
+  href: api/Zintom.StorageFacility.Storage.html
+  commentId: T:Zintom.StorageFacility.Storage
+  fullName: Zintom.StorageFacility.Storage
+  nameWithType: Storage
+- uid: Zintom.StorageFacility.Storage.Booleans
+  name: Booleans
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Booleans
+  commentId: P:Zintom.StorageFacility.Storage.Booleans
+  fullName: Zintom.StorageFacility.Storage.Booleans
+  nameWithType: Storage.Booleans
+- uid: Zintom.StorageFacility.Storage.Booleans*
+  name: Booleans
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Booleans_
+  commentId: Overload:Zintom.StorageFacility.Storage.Booleans
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.Booleans
+  nameWithType: Storage.Booleans
+- uid: Zintom.StorageFacility.Storage.DisplayLoadedValues
+  name: DisplayLoadedValues()
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_DisplayLoadedValues
+  commentId: M:Zintom.StorageFacility.Storage.DisplayLoadedValues
+  fullName: Zintom.StorageFacility.Storage.DisplayLoadedValues()
+  nameWithType: Storage.DisplayLoadedValues()
+- uid: Zintom.StorageFacility.Storage.DisplayLoadedValues*
+  name: DisplayLoadedValues
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_DisplayLoadedValues_
+  commentId: Overload:Zintom.StorageFacility.Storage.DisplayLoadedValues
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.DisplayLoadedValues
+  nameWithType: Storage.DisplayLoadedValues
+- uid: Zintom.StorageFacility.Storage.Edit(System.Boolean)
+  name: Edit(Boolean)
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Edit_System_Boolean_
+  commentId: M:Zintom.StorageFacility.Storage.Edit(System.Boolean)
+  fullName: Zintom.StorageFacility.Storage.Edit(System.Boolean)
+  nameWithType: Storage.Edit(Boolean)
+- uid: Zintom.StorageFacility.Storage.Edit*
+  name: Edit
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Edit_
+  commentId: Overload:Zintom.StorageFacility.Storage.Edit
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.Edit
+  nameWithType: Storage.Edit
+- uid: Zintom.StorageFacility.Storage.FloatArrays
+  name: FloatArrays
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_FloatArrays
+  commentId: P:Zintom.StorageFacility.Storage.FloatArrays
+  fullName: Zintom.StorageFacility.Storage.FloatArrays
+  nameWithType: Storage.FloatArrays
+- uid: Zintom.StorageFacility.Storage.FloatArrays*
+  name: FloatArrays
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_FloatArrays_
+  commentId: Overload:Zintom.StorageFacility.Storage.FloatArrays
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.FloatArrays
+  nameWithType: Storage.FloatArrays
+- uid: Zintom.StorageFacility.Storage.Floats
+  name: Floats
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Floats
+  commentId: P:Zintom.StorageFacility.Storage.Floats
+  fullName: Zintom.StorageFacility.Storage.Floats
+  nameWithType: Storage.Floats
+- uid: Zintom.StorageFacility.Storage.Floats*
+  name: Floats
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Floats_
+  commentId: Overload:Zintom.StorageFacility.Storage.Floats
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.Floats
+  nameWithType: Storage.Floats
+- uid: Zintom.StorageFacility.Storage.GetStorage(System.String)
+  name: GetStorage(String)
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_GetStorage_System_String_
+  commentId: M:Zintom.StorageFacility.Storage.GetStorage(System.String)
+  fullName: Zintom.StorageFacility.Storage.GetStorage(System.String)
+  nameWithType: Storage.GetStorage(String)
+- uid: Zintom.StorageFacility.Storage.GetStorage*
+  name: GetStorage
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_GetStorage_
+  commentId: Overload:Zintom.StorageFacility.Storage.GetStorage
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.GetStorage
+  nameWithType: Storage.GetStorage
+- uid: Zintom.StorageFacility.Storage.IntegerArrays
+  name: IntegerArrays
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_IntegerArrays
+  commentId: P:Zintom.StorageFacility.Storage.IntegerArrays
+  fullName: Zintom.StorageFacility.Storage.IntegerArrays
+  nameWithType: Storage.IntegerArrays
+- uid: Zintom.StorageFacility.Storage.IntegerArrays*
+  name: IntegerArrays
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_IntegerArrays_
+  commentId: Overload:Zintom.StorageFacility.Storage.IntegerArrays
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.IntegerArrays
+  nameWithType: Storage.IntegerArrays
+- uid: Zintom.StorageFacility.Storage.Integers
+  name: Integers
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Integers
+  commentId: P:Zintom.StorageFacility.Storage.Integers
+  fullName: Zintom.StorageFacility.Storage.Integers
+  nameWithType: Storage.Integers
+- uid: Zintom.StorageFacility.Storage.Integers*
+  name: Integers
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Integers_
+  commentId: Overload:Zintom.StorageFacility.Storage.Integers
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.Integers
+  nameWithType: Storage.Integers
+- uid: Zintom.StorageFacility.Storage.LongArrays
+  name: LongArrays
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_LongArrays
+  commentId: P:Zintom.StorageFacility.Storage.LongArrays
+  fullName: Zintom.StorageFacility.Storage.LongArrays
+  nameWithType: Storage.LongArrays
+- uid: Zintom.StorageFacility.Storage.LongArrays*
+  name: LongArrays
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_LongArrays_
+  commentId: Overload:Zintom.StorageFacility.Storage.LongArrays
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.LongArrays
+  nameWithType: Storage.LongArrays
+- uid: Zintom.StorageFacility.Storage.Longs
+  name: Longs
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Longs
+  commentId: P:Zintom.StorageFacility.Storage.Longs
+  fullName: Zintom.StorageFacility.Storage.Longs
+  nameWithType: Storage.Longs
+- uid: Zintom.StorageFacility.Storage.Longs*
+  name: Longs
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Longs_
+  commentId: Overload:Zintom.StorageFacility.Storage.Longs
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.Longs
+  nameWithType: Storage.Longs
+- uid: Zintom.StorageFacility.Storage.Raws
+  name: Raws
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Raws
+  commentId: P:Zintom.StorageFacility.Storage.Raws
+  fullName: Zintom.StorageFacility.Storage.Raws
+  nameWithType: Storage.Raws
+- uid: Zintom.StorageFacility.Storage.Raws*
+  name: Raws
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Raws_
+  commentId: Overload:Zintom.StorageFacility.Storage.Raws
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.Raws
+  nameWithType: Storage.Raws
+- uid: Zintom.StorageFacility.Storage.StringArrays
+  name: StringArrays
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_StringArrays
+  commentId: P:Zintom.StorageFacility.Storage.StringArrays
+  fullName: Zintom.StorageFacility.Storage.StringArrays
+  nameWithType: Storage.StringArrays
+- uid: Zintom.StorageFacility.Storage.StringArrays*
+  name: StringArrays
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_StringArrays_
+  commentId: Overload:Zintom.StorageFacility.Storage.StringArrays
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.StringArrays
+  nameWithType: Storage.StringArrays
+- uid: Zintom.StorageFacility.Storage.Strings
+  name: Strings
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Strings
+  commentId: P:Zintom.StorageFacility.Storage.Strings
+  fullName: Zintom.StorageFacility.Storage.Strings
+  nameWithType: Storage.Strings
+- uid: Zintom.StorageFacility.Storage.Strings*
+  name: Strings
+  href: api/Zintom.StorageFacility.Storage.html#Zintom_StorageFacility_Storage_Strings_
+  commentId: Overload:Zintom.StorageFacility.Storage.Strings
+  isSpec: "True"
+  fullName: Zintom.StorageFacility.Storage.Strings
+  nameWithType: Storage.Strings
