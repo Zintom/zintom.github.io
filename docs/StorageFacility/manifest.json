@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Zintom.StorageFacility.Helpers.html",
-          "hash": "6L5Nseu0t+1bjGl7WRf9rA=="
+          "hash": "GO1o6UdGiHy6IpNSqrJw6A=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Zintom.StorageFacility.IRepresent-1.html",
-          "hash": "Gb5uF3mnjbWJrsGAJashkA=="
+          "hash": "2c73Nq49LmJr/Bf+h2C4KA=="
         }
       },
       "is_incremental": true,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Zintom.StorageFacility.IStorageEditor.html",
-          "hash": "nwpUZCAqs7heeRhHCgw1aQ=="
+          "hash": "nvs7VWSNO9UjVmvxc+3noQ=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Zintom.StorageFacility.InvalidTokenException.html",
-          "hash": "IEPZKqtRHudsTDe6LYqJ4g=="
+          "hash": "zG7vFadt9oqortErvk3VtA=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Zintom.StorageFacility.Storage.html",
-          "hash": "FQI/KnfKKxbNWzoGOf6GmQ=="
+          "hash": "NU+O9Q35g0jy1ux1jpUN5g=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "N5ihyIJrT2Oj5xd37hRDvA=="
+          "hash": "IYVx9I8IgYDPT8NH3P29ig=="
         }
       },
       "is_incremental": false,
